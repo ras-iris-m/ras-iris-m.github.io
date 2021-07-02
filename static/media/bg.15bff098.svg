@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <g id="Group_11" data-name="Group 11" transform="translate(0 0)">
+    <g id="Rectangle_8" data-name="Rectangle 8" fill="#f2803e" stroke="#707070" stroke-width="1">
+      <rect width="1920" height="1080" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1919" height="1079" fill="none"/>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(-5 -8)">
+      <path id="Intersection_3" data-name="Intersection 3" d="M142.077,1088c-.051-2.489-.077-5-.077-7.5C142,882.506,302.058,722,499.5,722S857,882.506,857,1080.5c0,2.5-.026,5.01-.077,7.5Z" fill="#ff9c50"/>
+      <path id="Intersection_2" data-name="Intersection 2" d="M1757.169,179H1925V334.939q-2.242.061-4.5.061A163.5,163.5,0,0,1,1757.169,179Z" transform="translate(0 -171)" fill="#ff9c50"/>
+      <path id="Intersection_1" data-name="Intersection 1" d="M163,600.088V175H602.133A316.117,316.117,0,0,1,640,325.5C640,500.85,497.85,643,322.5,643A316.079,316.079,0,0,1,163,600.088Z" transform="translate(-158 -167)" fill="#ff9c50"/>
+    </g>
+  </g>
+</svg>
